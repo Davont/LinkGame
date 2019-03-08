@@ -1,0 +1,2 @@
+LinkGame.h 文件出现了 必须加载LinkGame.cpp 
+而不是LinkGame.cpp 的情况
